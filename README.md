@@ -6,7 +6,7 @@
 パフォーマンス予測: 設定値に基づいたトルク・馬力カーブの動的生成。
 バイリンガル対応: 日本語 / 英語のワンタッチ切り替え。
 
-# Sanctuary Engine Simulator v7.3
+#  Multi Engine Simulator v7.3
 
 A high-performance dynamic engine cycle simulator developed in Python (Tkinter). 
 Designed for visualizing internal combustion engine mechanisms with extreme flexibility.
